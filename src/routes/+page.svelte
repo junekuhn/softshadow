@@ -27,13 +27,13 @@
 </script>
 
 <main>
-  <h1>trampbunny</h1>
-  <h2>live-coded music loops and pixel soups</h2>
+  <h1>softshadow</h1>
+  <h2>live-looping saxophone and spoken word</h2>
   <ul>
-    <li><a href="https://twitch.tv/trampbunny"><button>twitch</button></a></li>
-    <li><a href="https://instagram.com/trampbunny.tv"><button>instagram</button></a></li>
-    <li><a href="https://youtu.be/M5gzqi69yh8"><button>demo reel</button></a></li>
-    <li><a href="mailto:trampbunny@proton.me"><button>contact</button></a></li>
+    <li><a href="https://softshadow.bandcamp.com"><button>listen</button></a></li>
+    <li><a href="https://www.youtube.com/@softshadowww"><button>watch</button></a></li>
+    <li><a href="https://instagram.com/softshadow____"><button>follow</button></a></li>
+    <li><a href="mailto:softshadowmusic@proton.me"><button>contact</button></a></li>
   </ul>
 </main>
 
@@ -53,8 +53,9 @@
   }
 
   h1 {
-    font-size: 50px;
-    font-family: '2Peas';
+    font-size: 200px;
+    font-family: 'Creepygirl';
+    filter: blur(1px)
 
   }
 
